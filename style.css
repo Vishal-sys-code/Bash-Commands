@@ -1,0 +1,26 @@
+body{
+    background-color: #DfDfDf;
+    color: #141414;
+    font-family: 'Roboto Slab', serif;
+}
+
+.left{
+    float: left;
+    clear: both;
+    font-weight: bold;
+}
+
+#block{
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 2px;
+    padding-left: 40px;
+}
+
+.footer-css p{
+    text-align: center;
+}
+
+
+
+  

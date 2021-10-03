@@ -1,0 +1,19 @@
+body{
+    background-color: #0C374D;
+    background-image: url(img1.jpg);
+}
+.fuck-you{
+    height: 170px;
+    width: 170px;
+}
+.heading1{
+    color: darkred;
+    font-size: 100px;
+    text-align: center;
+}
+.heading2{
+    color: antiquewhite;
+    text-align: center;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    text-align: center;
+}
